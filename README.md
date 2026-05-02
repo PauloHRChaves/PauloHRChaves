@@ -34,9 +34,9 @@
 <br>
 <br>
 <p align="center">
-<a href="https://www.linkedin.com/in/ph-chaves"><img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg"></a>
-<a href="mailto:hpaulochaves@gmail.com"><img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg"></a>
-<a href="https://www.instagram.com/phr_chaves"><img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg"></a>
+<a href="https://www.linkedin.com/in/ph-chaves" target="_blank"><img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg"></a>
+<a href="mailto:hpaulochaves@gmail.com" target="_blank"><img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg"></a>
+<a href="https://www.instagram.com/phr_chaves" target="_blank"><img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg"></a>
 </p>
 
 <details>
