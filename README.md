@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!;Bem-vindo+ao+meu+perfil!&font=Fira%20Code&color=12F70C&center=true&width=300&height=35">
 </p>
 
-💻  Desenvolvedor com foco em Front-End, em transição para Full-Stack. Futuramente almejando o desenvolvimento de aplicações completas e escaláveis em Nuvem.
+💻  Desenvolvedor Full-Stack. Almejando o desenvolvimento de aplicações completas e escaláveis em Nuvem.
 
 🚀  Atualmente explorando tecnologias modernas e construindo projetos práticos.
 
