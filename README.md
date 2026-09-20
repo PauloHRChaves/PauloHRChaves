@@ -1,12 +1,11 @@
 <div>
-    <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=80&color=timeGradient&section=header&reversal=false&text=Paulo+HR+Chaves&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50"/>
-</div>
+    <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=80&color=timeGradient&section=header&reversal=false&text=Paulo%20HR%20Chaves&textBg=false&fontSize=50&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50"/>
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!;Welcome+to+my+profile!&font=Fira%20Code&color=2291E5&center=true&width=300&height=35">
     <br>
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!;Bem-vindo+ao+meu+perfil!&font=Fira%20Code&color=12F70C&center=true&width=300&height=35">
-</p>
+</p> -->
 
 💻  Desenvolvedor Full-Stack. Almejando o desenvolvimento de aplicações completas e escaláveis em Nuvem.
 
@@ -24,12 +23,12 @@
     </a>
 </div>
 
-<!-- <br>
+<br>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PauloHRChaves/PauloHRChaves/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PauloHRChaves/PauloHRChaves/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PauloHRChaves/PauloHRChaves/output/pacman-contribution-graph.svg">
-</picture> -->
+</picture>
 
 <br>
 <br>
