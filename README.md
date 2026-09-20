@@ -1,6 +1,8 @@
 <div>
-    <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=80&color=timeGradient&section=header&reversal=false&text=Paulo%20HR%20Chaves&textBg=false&fontSize=50&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50"/>
+    <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&reversal=false&text=Paulo%20HR%20Chaves&fontSize=50&fontColor=ffffff&fontAlign=60&fontAlignY=50&rotate=0&stroke=-&textBg=false&color=999999"/>
+</div>
 
+<br>
 <!-- <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!;Welcome+to+my+profile!&font=Fira%20Code&color=2291E5&center=true&width=300&height=35">
     <br>
@@ -32,10 +34,9 @@
 
 <br>
 <br>
-<p align="center">
+<p align="center" gap="50px">
 <a href="https://www.linkedin.com/in/ph-chaves" target="_blank"><img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg"></a>
 <a href="https://mail.google.com/mail/?view=cm&to=hpaulochaves@gmail.com"><img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg"></a>
-<a href="https://www.instagram.com/phr_chaves" target="_blank"><img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg"></a>
 </p>
 
 <details>
