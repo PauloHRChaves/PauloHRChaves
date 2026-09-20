@@ -1,5 +1,5 @@
 <div>
-    <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&reversal=false&text=Paulo%20HR%20Chaves&fontSize=50&fontColor=ffffff&fontAlign=60&fontAlignY=50&rotate=0&stroke=-&textBg=false&color=999999"/>
+    <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&reversal=false&text=Paulo%20HR%20Chaves&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&textBg=false&color=999999"/>
 </div>
 
 <br>
