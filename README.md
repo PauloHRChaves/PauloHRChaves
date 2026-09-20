@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&reversal=false&text=Paulo%20HR%20Chaves&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=999999"  />
+    <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=300&color=timeGradient&section=header&reversal=false&text=Paulo+HR+Chaves&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50"/>
 </div>
 
 <p align="center">
@@ -24,12 +24,12 @@
     </a>
 </div>
 
-<br>
+<!-- <br>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PauloHRChaves/PauloHRChaves/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PauloHRChaves/PauloHRChaves/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PauloHRChaves/PauloHRChaves/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 <br>
 <br>
@@ -40,7 +40,7 @@
 </p>
 
 <details>
-  <summary align="center"><b>🚀 More Info</b></summary>
+  <summary align="center"><b>More Info</b></summary>
   <h2>Linguagens:</h2>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-0a516d?style=for-the-badge&logo=python&logoColor=white">
